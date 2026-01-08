@@ -12,15 +12,15 @@ Homebrew Core is the primary repository of formulae for [Homebrew](https://brew.
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [API Documentation](#-api-documentation)
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Documentation](#api-documentation)
   - [List All Formulae](#list-all-formulae)
   - [Get Formula Details](#get-formula-details)
-- [Resources](#-resources)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -30,7 +30,7 @@ Homebrew Core provides a comprehensive collection of formulae that are:
 - 🔒 **Secure**: Regularly audited and maintained
 - ⚡ **Fast**: Optimized for quick installation
 - 🌍 **Cross-platform**: Works on macOS and Linux
-- 📦 **Comprehensive**: Over 7,000+ formulae available
+- 📦 **Comprehensive**: 7,000+ formulae available
 
 The Homebrew Core repository is configured by default when you install Homebrew, which means it's ready to use immediately on macOS and Linux systems.
 
